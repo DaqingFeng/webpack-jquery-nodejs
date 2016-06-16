@@ -1,7 +1,7 @@
 
-# Webpack ES6  resolve your needed jQuery  to es6  and resove current js file to node js service
+# Webpack  resolve  `jQuery`  to ES6  Using  barbel loader ES6 file to `Nodejs` service  `Web page`.
 
-The project that shows how to use webpack for client-side development in ECMAScript 6 and using jQuery web front design 
+Use `Webpack` for   ECMAScript 6 and using jQuery web  front  design and   background  server 
 
 Nodejs run common model logic.
 
