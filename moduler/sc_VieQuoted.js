@@ -1,0 +1,15 @@
+define([],function()
+{
+   return{
+         Quoted:{//报价信息
+         VidUserId:'',//报价人ID
+         DeliverUserId:'',//求购人用户Id---当发送抢单信息时，需要使用验证userid
+         RequireId:'',//求购ID
+         OfferId:'',//报价ID
+         OfferPrice:'',
+         OfferTitle:'',
+         OfferContent:'',
+         OfferRemark:'',
+    }
+   } 
+});
